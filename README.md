@@ -97,11 +97,6 @@ I am a data-driven Software Engineering student with a strong interest in **Data
 ![MS Office](https://img.shields.io/badge/MS_Office-Word_|_Excel_|_PowerPoint-D83B01?style=for-the-badge)
 
 
-## 📊 GitHub Stats
-
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayesha-Zafar-03&show_icons=true&theme=default&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Zafar-03&layout=compact&langs_count=8)
 
 
 ---
